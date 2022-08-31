@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tour</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css"/>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js"></script>
+    <style>
+        #panorama {
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="panorama"></div>
+<script>
+    pannellum.viewer('panorama', {
+        "default": {
+            "firstScene": "living",
+            "author": "3DXP Design Studio",
+            "sceneFadeDuration": 1000,
+            "loadButtonLabel" : "Start Tour",
+            "preview": "images/neopad/preview.jpg",
+        },
+
+        "scenes": {
+            "living": {
+                "title": "Neo-Pad Living Room",
+                "hfov": 110,
+                "pitch": -2.1,
+                "yaw": 0,
+                "type": "equirectangular",
+                "panorama": "images/neopad/neopad_living.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -35.1,
+                        "yaw": 75,
+                        "type": "scene",
+                        "text": "Neo-Pad Second Floor",
+                        "sceneId": "secondfloor"
+                    },
+                    {
+                        "pitch": -5.0,
+                        "yaw": -105,
+                        "type": "scene",
+                        "text": "Neo-Pad Room",
+                        "sceneId": "room"
+                    }
+                ]
+            },
+
+            "room": {
+                "title": "Neo-Pad Room",
+                "hfov": 110,
+                "yaw": -115,
+                "type": "equirectangular",
+                "panorama": "images/neopad/neopad_room.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -0.6,
+                        "yaw": 50,
+                        "type": "scene",
+                        "text": "Neo-Pad Living Room",
+                        "sceneId": "living",
+                        "targetYaw": 0,
+                        "targetPitch": -2.1
+                    }
+                ]
+            },
+
+            "secondfloor": {
+                "title": "Neo-Pad Second Floor",
+                "hfov": 110,
+                "yaw": 0,
+                "type": "equirectangular",
+                "panorama": "images/neopad/neopad_2nd_floor.jpg",
+                "hotSpots": [
+                    {
+                        "pitch": -20.6,
+                        "yaw": 5,
+                        "type": "scene",
+                        "text": "Neo-Pad Living Room",
+                        "sceneId": "living",
+                        "targetYaw": 35,
+                        "targetPitch": -2.1
+                    }
+                ]
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
