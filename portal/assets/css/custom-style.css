@@ -1,0 +1,10 @@
+/*Write your custom css in this file.*/
+div#profile-image-section h4 {
+    margin-left: 10px;
+}
+.file-upload.btn.p0.profile-image-upload.profile-image-direct-upload {
+    display: none;
+}
+.text-right {
+    text-align: left !important;
+}
