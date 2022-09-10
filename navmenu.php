@@ -17,35 +17,33 @@
                         <!-- Start Mainmanu Nav -->
                         <ul class="mainmenu">
 
-                            <li><a href="index.php">Home</a></li>
+                            <!-- <li><a href="index.php">Home</a></li> -->
                             <li class="has-dropdown has-menu-child-item">
-                                <a href="index.php#about-us">About Us</a>
+                                <a href="index.php#about-us">About</a>
                                 <ul class="submenu">
-                                    <li><a href="index.php#about-us">Who are We?</a></li>
-                                    <li><a href="index.php#tools">Tools we Use</a></li>
-                                    <li><a href="index.php#metaverse">Metaverse</a></li>
-                                    <li><a href="index.php#partners">Partners</a></li>
-                                    <li><a href="index.php#studio">Our Studios</a></li>
+                                    <li><a href="index.php#about-us">Who are we?</a></li>
+                                    <li><a href="index.php#tools">Tools we use</a></li>
                                     <li><a href="index.php#experience">Why choose 3DXP?</a></li>
-                                    <li><a href="index.php#promise">Our Promise</a></li>
+                                    <li><a href="index.php#metaverse">Metaverses we are building</a></li>
+                                    <li><a href="index.php#promise">Our promise</a></li>
+                                    <li><a href="index.php#partners">Brands who believe in us</a></li>
+                                    <!-- <li><a href="index.php#studio">Our Studios</a></li> -->
                                 </ul>
                             </li>
                             <!-- <li><a href="projects.php">Projects</a></li> -->
                             <li class="has-dropdown has-menu-child-item">
-                                <a href="design.php">Design</a>
+                                <a href="design.php">Design Services</a>
                                 <ul class="submenu">
-                                    <li><a href="design.php#3d-animation">3D Animation</a></li>
+                                    <li><a href="design.php#3d-animations">3D Animations</a></li>
+                                    <li><a href="design.php#3d-assets">3D Assets</a></li>
                                     <li><a href="design.php#3d-characters">3D Characters</a></li>
                                     <li><a href="design.php#3d-environments">3D Environments</a></li>
-                                    <li><a href="design.php#3d-events">3D Events</a></li>
                                     <li><a href="design.php#3d-nfts">3D NFTs</a></li>
                                     <li><a href="design.php#3d-properties">3D Properties</a></li>
-                                    <li><a href="design.php#3d-vehicles">3D Vehicles</a></li>
-                                    <li><a href="design.php#concept-art">Concept Art</a></li>
-                                    <li><a href="design.php#game-art">Game Art</a></li>
+                                    <li><a href="design.php#3d-wearables">3D Wearables</a></li>
                                 </ul>
                             </li>
-                            <li><a href="gaming.php">Gaming</a></li>
+                            <!-- <li><a href="gaming.php">Gaming</a></li>
                             <li class="has-dropdown has-menu-child-item">
                                 <a href="marketing.php">Marketing</a>
                                 <ul class="submenu">
@@ -59,15 +57,15 @@
                                     <li><a href="marketing.php#3d-product-marketing">3D Product Marketing</a></li>
                                     <li><a href="marketing.php#360-content-marketing">360 Content Marketing</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="index.php#request">Contact Us</a></li>
+                            </li> -->
+                            <!-- <li><a href="index.php#request">Contact Us</a></li> -->
                             <!-- <li><a href="#">Marketplace</a></li> -->
                         </ul>
                     </nav>
                 </div>
 
-                <li class="wallet-button submit-request"> <a href="book-meeting.php" class="btn btn-small btn-outline">
-                        <span>Book a Meeting</span></a></li>
+                <li class="wallet-button submit-request"> <a href="contact.php" class="btn btn-small btn-outline">
+                        <span>Contact Us</span></a></li>
 
                 <!-- <li class="wallet-button submit-request"> <a href="experience.php" class="btn btn-small btn-outline">
                         <span>Submit a Request</span></a></li> -->
@@ -122,35 +120,33 @@
         <nav>
             <!-- Start Mainmanu Nav -->
             <ul class="mainmenu">
-                <li><a href="index.php">Home</a></li>
+                <!-- <li><a href="index.php">Home</a></li> -->
                 <li class="has-dropdown has-menu-child-item">
-                    <a href="index.php#about-us">About Us</a>
+                    <a href="index.php#about-us">About</a>
                     <ul class="submenu">
                         <li><a href="index.php#about-us">Who are We?</a></li>
-                        <li><a href="index.php#tools">Tools we Use</a></li>
-                        <li><a href="index.php#metaverse">Metaverse</a></li>
-                        <li><a href="index.php#partners">Partners</a></li>
-                        <li><a href="index.php#studio">Our Studios</a></li>
+                        <li><a href="index.php#tools">Tools we use</a></li>
                         <li><a href="index.php#experience">Why choose 3DXP?</a></li>
-                        <li><a href="index.php#promise">Our Promise</a></li>
+                        <li><a href="index.php#metaverse">Metaverses we are building</a></li>
+                        <li><a href="index.php#promise">Our promise</a></li>
+                        <li><a href="index.php#partners">Brands who believe in us</a></li>
+                        <!-- <li><a href="index.php#studio">Our Studios</a></li> -->
                     </ul>
                 </li>
                 <!-- <li><a href="projects.php">Projects</a></li> -->
                 <li class="has-dropdown has-menu-child-item">
-                    <a href="design.php">Design</a>
+                    <a href="design.php">Design Services</a>
                     <ul class="submenu">
-                        <li><a href="design.php#">3D Animation</a></li>
-                        <li><a href="design.php#">3D Characters</a></li>
-                        <li><a href="design.php#">3D Environments</a></li>
-                        <li><a href="design.php#">3D Events</a></li>
-                        <li><a href="design.php#">3D NFTs</a></li>
-                        <li><a href="design.php#">3D Properties</a></li>
-                        <li><a href="design.php#">3D Vehicles</a></li>
-                        <li><a href="design.php#">Concept Art</a></li>
-                        <li><a href="design.php#">Game Art</a></li>
+                        <li><a href="design.php#3d-animations">3D Animations</a></li>
+                        <li><a href="design.php#3d-assets">3D Assets</a></li>
+                        <li><a href="design.php#3d-characters">3D Characters</a></li>
+                        <li><a href="design.php#3d-environments">3D Environments</a></li>
+                        <li><a href="design.php#3d-nfts">3D NFTs</a></li>
+                        <li><a href="design.php#3d-properties">3D Properties</a></li>
+                        <li><a href="design.php#3d-wearables">3D Wearables</a></li>
                     </ul>
                 </li>
-                <li><a href="gaming.php">Gaming</a></li>
+                <!-- <li><a href="gaming.php">Gaming</a></li>
                 <li class="has-dropdown has-menu-child-item">
                     <a href="marketing.php">Marketing</a>
                     <ul class="submenu">
@@ -164,9 +160,9 @@
                         <li><a href="marketing.php#">3D Product Marketing</a></li>
                         <li><a href="marketing.php#">360 Content Marketing</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li><a href="index.php#request">Contact Us</a></li>
-                <li><a href="book-meeting.php">Book a Meeting</a></li>
+                <!-- <li><a href="book-meeting.php">Book a Meeting</a></li> -->
                 <!-- <li><a href="#">Marketplace</a></li> -->
             </ul>
         </nav>

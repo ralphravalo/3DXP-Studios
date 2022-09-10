@@ -27,35 +27,141 @@
 <?php include 'navmenu.php';?>
 
 <!-- 3D Animation Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-animation">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-animations">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-4">
-                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Animation</h2>
-                <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    3DXP prides itself in delivering quality animations that follow the highest standards
+            <div class="col">
+                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Animations</h2>
+                <br>
+                <p data-aos="fade-up" data-aos-delay="100">
+                    We pride in delivering quality animations to promote your brand and project. 
                 </p>
+
+                <!-- <div class="animations-process" data-aos="fade-up" data-aos-delay="100" >
+                    <p>Our process:</p>
+                    <ol class="process-list">
+                        <li><div class="tab"></div> Conceptualizing</li>
+                        <li><div class="tab"></div> Storyboarding</li>
+                        <li><div class="tab"></div> 3D Modelling</li>
+                        <li><div class="tab"></div> Texturing</li>
+                        <li><div class="tab"></div> Rigging and Skinning</li>
+                        <li><div class="tab"></div> Animating</li>
+                        <li><div class="tab"></div> Lighting</li>
+                        <li><div class="tab"></div> Rendering</li>
+                        <li><div class="tab"></div> Compositing and Special FX</li>
+                        <li><div class="tab"></div> Music and Foley</li>
+                        <li><div class="tab"></div> Editing </li>
+                        <li><div class="tab"></div> Final Output</li>
+                    </ol>
+                </div> -->
             </div>
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">        
+            <div class="col m-3 assets-media animations" data-aos="fade-up" data-aos-delay="200">
+                <video controls muted autoplay loop>
+                    <source src="./videos/Haku and Momo Dalton's Apartment.mp4" type="video/mp4">
+                </video>                                
+                <div class="animations-name">
+                    "Haku and Momo exploring Dalton’s apartment"
+                </div>
+            </div>
+            <div class="col m-3 assets-media animations" data-aos="fade-up" data-aos-delay="200">
+                <video controls muted autoplay loop>
+                    <source src="./videos/Pavia Whale OG Shoes.mp4" type="video/mp4">
+                </video> 
+                <div class="animations-name">
+                    "Pavia Whale OG Shoes promo video"
+                </div>
             </div>
         </div>
     </div>
 </section>
 <!-- 3D Animation Section End -->
 
-<!-- 3D Characters Section -->
-<section class="left-media-section ptb-120" id="3d-characters">
+<!-- 3D Events Section -->
+<section class="ptb-120" id="3d-assets">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
+            <div class="col">
+                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Assets</h2>
+                <p class="medium" data-aos="fade-up" data-aos-delay="100">
+                    We offer an extensive assortment of customized or 3DXP pre-made assets to fit your preference.
+                </p>
             </div>
-            <div class="col-xl-4">
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media assets" data-aos="fade-up" data-aos-delay="200">
+                <div class="asset-name">Flying Hoverboard</div>
+                <img src="./images/design studios/3d assets/flying hoverboard.jpg" alt="">
+            </div>
+            <div class="col m-3 assets-media assets" data-aos="fade-up" data-aos-delay="200">
+                <div class="asset-name">R3DX</div>
+                <img src="./images/design studios/3d assets/r3dx.png" alt="">
+            </div>
+            <div class="col m-3 assets-media assets" data-aos="fade-up" data-aos-delay="200">
+                <div class="asset-name">Haunted House</div>
+                <img src="./images/design studios/3d assets/Haunted House Assets.png" alt="">
+            </div>
+            <!-- <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="400"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="500"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="600"></div> -->
+        </div>
+        <!-- <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="700"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="800"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="900"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1000"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1100"></div>
+        </div> -->
+    </div>
+</section>
+<!-- 3D Events Section End -->
+
+<!-- 3D Characters Section -->
+<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-characters">
+    <div class="container">
+        <div class="row ">
+            <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Characters</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    We make sure to involve (customers/clients) in the process of making compelling character designs.
+                    We create different characters – from stylized to realistic style for 3D printing, games or metaverse characters.
                 </p>
+            </div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="200">
+                <img src="./images/design studios/3d characters/ashigaru.png" alt="">
+                <div class="character-name">Ashigaru</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="300">
+                <img src="./images/design studios/3d characters/bitmap.png" alt="">
+                <div class="character-name">Bitmap</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="400">
+                <img src="./images/design studios/3d characters/clay nation.png" alt="">
+                <div class="character-name">Clay Nation</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="500">
+                <img src="./images/design studios/3d characters/gundam.png" alt="">
+                <div class="character-name">Gundam</div>
+            </div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="600">
+                <img src="./images/design studios/3d characters/rpm.png" alt="">
+                <div class="character-name">RPM</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="700">
+                <img src="./images/design studios/3d characters/spacebudz.png" alt="">
+                <div class="character-name">Spacebudz</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="800">
+                <img src="./images/design studios/3d characters/trinity.png" alt="">
+                <div class="character-name">Trinity</div>
+            </div>
+            <div class="col m-3 assets-media characters" data-aos="fade-up" data-aos-delay="900">
+                <img src="./images/design studios/3d characters/voxel.png" alt="">
+                <div class="character-name">Voxel</div>
             </div>
         </div>
     </div>
@@ -63,53 +169,57 @@
 <!-- 3D Characters Section End -->
 
 <!-- 3D Environments Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-environments">
+<section class="left-media-section ptb-120" id="3d-environments">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-4">
+            <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Environments</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
                     By establishing mindful incorporation of various assets, we produce riveting virtual environments
                 </p>
             </div>
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="300">
+                <img src="./images/design studios/3d environments/house garden 2.png" alt="">
+                <div class="environment-name">Mansion House Garden</div>
+            </div>
+            <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="400">
+                <img src="./images/design studios/3d environments/forest 1.png" alt="">
+                <div class="environment-name">Forest</div>
+            </div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="600">
+                <img src="./images/design studios/3d environments/cyberpunk 1.png" alt="">
+                <div class="environment-name">Cyberpunk Walkway</div>
+            </div>
+            <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="700">
+                <img src="./images/design studios/3d environments/cyberpunk 2.png" alt="">
+                <div class="environment-name">Indoor Living Room</div>
             </div>
         </div>
     </div>
 </section>
 <!-- 3D Environments Section End -->
 
-<!-- 3D Events Section -->
-<section class="left-media-section ptb-120" id="3d-events">
-    <div class="container">
-        <div class="row ">
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
-            </div>
-            <div class="col-xl-4">
-                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Events</h2>
-                <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    3DXP’s cumulative skillset can transform any 3D event into a thrilling virtual experience
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- 3D Events Section End -->
-
 <!-- 3D NFTs Section -->
 <section class="section-bg-separation-2 right-media-section ptb-120" id="3d-nfts">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-4">
+            <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D NFTs</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    Having different members with different specializations, our team produces distinct and noteworthy NFTs for (customers/clients)
+                    Having different members with different specializations, our team produces distinct and noteworthy collectible NFTs.
+                    <br>
                 </p>
             </div>
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
+        </div>
+        <div class="row">
+            <div class="col assets-media nfts" data-aos="fade-up" data-aos-delay="100">
+                <video controls muted autoplay loop>
+                    <source src="./images/design studios/3d nfts/dlux.mp4" type="video/mp4">
+                </video>
             </div>
         </div>
     </div>
@@ -120,14 +230,37 @@
 <section class="left-media-section ptb-120" id="3d-properties">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
-            </div>
-            <div class="col-xl-4">
+            <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Properties</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    Through the collective efforts of our Architects, 3DXP brings a wide selection of premade 3D properties – from conventional to extraordinary.
+                    Through the collective efforts of our Concept Artists, Architects, and 3D Artists, we bring a wide selection of customize and/or premade 3DXP properties – from conventional to extraordinary architectural style. We design and build different property themes –  old theme, modern, or futuristic!
                 </p>
+                <div class="group-btn" data-aos="fade-up" data-aos-delay="100">
+                    <a href="process.php" class="btn btn-outline"><span>Learn more</span></a>
+                </div>
+                <br>
+            </div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media properties" data-aos="fade-up" data-aos-delay="100">
+                <img src="./images/design studios/3d properties/cyberpunk neopad.jpg" alt="">
+                <div class="properties-name">Cyberpunk Neopad</div>
+            </div>
+            <div class="col m-3 assets-media properties" data-aos="fade-up" data-aos-delay="200">
+                <img src="./images/design studios/3d properties/dalton's apartment.jpg" alt="">
+                <div class="properties-name">Dalton's Apartment</div>
+            </div>
+            <div class="col m-3 assets-media properties" data-aos="fade-up" data-aos-delay="300">
+                <video controls muted autoplay loop>
+                    <source src="./images/design studios/3d properties/home depot.mp4" type="video/mp4">
+                </video> 
+                <div class="properties-name">Home Depot</div>
+            </div>
+            <div class="col m-3 assets-media properties" data-aos="fade-up" data-aos-delay="400">
+                <video controls muted autoplay loop>
+                    <source src="./images/design studios/3d properties/musiq clubhouse.mp4" type="video/mp4">
+                </video> 
+                <div class="properties-name">Musiq Clubhouse</div>
             </div>
         </div>
     </div>
@@ -135,58 +268,36 @@
 <!-- 3D Properties Section End -->
 
 <!-- 3D Vehicles Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-vehicles">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-wearables">
     <div class="container">
         <div class="row ">
-            <div class="col-xl-4">
-                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Vehicles</h2>
+            <div class="col">
+                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Wearables</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    We offer an extensive assortment of customized virtual vehicles to fit any (customer/client)’s preferences
+                    We customize unique wearables for your game or metaverse avatars. We also create 3D wearables for AR marketing or AR virtual try on.
                 </p>
             </div>
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
+        </div>
+        <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media wearables" data-aos="fade-up" data-aos-delay="200">
+                <img src="./images/design studios/3d wearables/Decentraland Wearables.png" alt="">
+                <div class="properties-name">Decentraland Wearables</div>
+            </div>
+            <div class="col m-3 assets-media wearables" data-aos="fade-up" data-aos-delay="300">
+                <img src="./images/design studios/3d wearables/RPM Wearable.png" alt="">
+                <div class="properties-name">RPM Wearable</div>
             </div>
         </div>
+        <!-- <div class="row " data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="700"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="800"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="900"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1000"></div>
+            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1100"></div>
+        </div> -->
     </div>
 </section>
 <!-- 3D Vehicles Section End -->
-
-<!-- Concept Art Section -->
-<section class="left-media-section ptb-120" id="concept-art">
-    <div class="container">
-        <div class="row ">
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
-            </div>
-            <div class="col-xl-4">
-                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">Concept Art</h2>
-                <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    Through the collective efforts of our Architects, 3DXP brings a wide selection of premade 3D properties – from conventional to extraordinary.
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Concept Art Section End -->
-
-<!-- Game Art Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="game-art">
-    <div class="container">
-        <div class="row ">
-            <div class="col-xl-4">
-                <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">Game Art</h2>
-                <p class="medium" data-aos="fade-up" data-aos-delay="100">
-                    With the help of our team, you can bring remarkable game concepts and artworks to reality 
-                </p>
-            </div>
-            <div class="col-xl-8">
-                <div class="media-container" data-aos="fade-up" data-aos-delay="300"></div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Game Art Section End -->
 
 <?php include 'footer.php';?>
 

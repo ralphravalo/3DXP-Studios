@@ -24,8 +24,8 @@
                         <p class="mb-5">3DXP is a limited company based in London, United Kingdom.<br><br>
                             All services and designs are offered online.</p>
                         <div class="social">
-                            <a class="icon-twitter" href="https://twitter.com/3dxpDesign"><i class="ri-twitter-line"></i></a>
-                            <a class="icon-facebook" href="https://discordapp.com/users/802991027648331796/"><i class="ri-discord-fill"></i></a>
+                            <a class="icon-twitter" href="https://twitter.com/3dxpStudios"><i class="ri-twitter-line"></i></a>
+                            <a class="icon-facebook" href="https://discord.gg/jh8NS4PJpG"><i class="ri-discord-fill"></i></a>
                             <div class="pavia-logo">
                                 <img src="images/creatorlogov2.png">
                             </div>
@@ -40,10 +40,10 @@
                         <ul class="footer-list-widget">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="index.php#about-us">About Us</a></li>
-                            <li><a href="design.php">Design Studios</a></li>
-                            <li><a href="gaming.php">Gaming Studios</a></li>
+                            <li><a href="design.php">Design Services</a></li>
+                            <!-- <li><a href="gaming.php">Gaming Studios</a></li>
                             <li><a href="marketing.php">Marketing Studios</a></li>
-                            <li><a href="#">Marketplace</a></li>
+                            <li><a href="#">Marketplace</a></li> -->
                             <!-- <li><a href="projects.php">Project</a></li> -->
                         </ul>
                     </div>
@@ -55,8 +55,8 @@
                         <h4>Information</h4>
                         <ul class="footer-list-widget">
                             <!-- <li><a href="experience.php">Submit a Request</a></li> -->
-                            <li><a href="index.php#request">Contact us</a></li>
                             <li><a href="book-meeting.php">Book a Meeting</a></li>
+                            <li><a href="index.php#request">Send us a message</a></li>
                         </ul>
                     </div>
                 </div>

@@ -2450,7 +2450,7 @@ button.slide-arrow:hover.slide-arrow i {
   display: flex;
   list-style: none;
   padding: 0;
-  margin: 0 0 0 20px !important;
+  margin: 0 15px 0 20px !important;
   justify-content: flex-start;
   flex-wrap: wrap;
 }
@@ -7121,6 +7121,29 @@ model-viewer#reveal {
 }
 
 /* Added by Ralph Ravalo */
+.hero-banner_inner .row {
+  width: 100%;
+}
+
+.section-media img {
+  width: 100%
+}
+
+/*.hero-banner_inner {
+  display: flex;
+  align-items: flex-start !important;
+  justify-content: center;
+}*/
+
+.hero-banner_inner .title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.hero-banner_inner .title-highlight {
+  color: #85bed9;
+}
+
 .logo-wrapper {
   height: 70px;
 }
@@ -7135,8 +7158,8 @@ model-viewer#reveal {
 }
 
 .section-list-col:not(.partners-section) {
-  margin: 25px;
-  padding: 25px;
+  margin: 15px 20px;
+  padding: 15px 20px;
 }
 
 .right-media-section .col-xl-4 {
@@ -7191,6 +7214,7 @@ model-viewer#reveal {
 
 .section-list-bullet li {
   margin: 15px 0;
+  font-size: 20px;
 }
 
 .thumb {
@@ -7216,3 +7240,113 @@ model-viewer#reveal {
   width: auto;
 }
 
+#request .col-xl-5 p.medium {
+  font-size: 18px;
+}
+
+.nice-select .list {
+  height: auto !important;
+}
+
+.animations-process p {
+  font-size: 16px;
+  margin-left: 20px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.animations-process .process-list {
+  margin-left: 30px;
+}
+
+.animations-process .process-list li {
+  list-style: auto;
+  margin-left: 30px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.tab {
+  display: inline-block;
+  height: 5px;
+  width: 10px;
+}
+
+.assets-media {
+  height: 250px;
+  /*background: #FF0000;*/
+}
+
+.assets-media.assets {
+  height: auto;
+}
+
+.asset-name {
+  font-size: 20px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.assets-media.animations {
+  height: 500px;
+  padding-bottom: 40px;
+}
+
+.assets-media.animations video {
+  width: 100%;
+}
+
+.animations-name {
+  margin: 10px 0 15px;
+  font-size: 20px;
+  display: block;
+}
+
+.assets-media.characters {
+  height: 400px;
+}
+
+.assets-media img {
+  height: auto;
+  width: 100%;
+}
+
+.character-name {
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.assets-media video {
+  height: 100%;
+  width: auto;
+}
+
+.assets-media.environments {
+  height: auto;
+}
+
+.assets-media.environments .environment-name {
+  margin: 10px 0 15px 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.assets-media.nfts {
+  height: auto;
+}
+
+.properties-name {
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.assets-media.nfts video {
+  height: auto;
+  width: 100%;
+}
+
+.assets-media.wearables {
+  height: auto;
+}
