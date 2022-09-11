@@ -32,15 +32,15 @@
                             </li>
                             <!-- <li><a href="projects.php">Projects</a></li> -->
                             <li class="has-dropdown has-menu-child-item">
-                                <a href="design.php">Design Services</a>
+                                <a href="design-studios.php">Design Services</a>
                                 <ul class="submenu">
-                                    <li><a href="design.php#3d-animations">3D Animations</a></li>
-                                    <li><a href="design.php#3d-assets">3D Assets</a></li>
-                                    <li><a href="design.php#3d-characters">3D Characters</a></li>
-                                    <li><a href="design.php#3d-environments">3D Environments</a></li>
-                                    <li><a href="design.php#3d-nfts">3D NFTs</a></li>
-                                    <li><a href="design.php#3d-properties">3D Properties</a></li>
-                                    <li><a href="design.php#3d-wearables">3D Wearables</a></li>
+                                    <li><a href="design-studios.php#animations">3D Animations</a></li>
+                                    <li><a href="design-studios.php#assets">3D Assets</a></li>
+                                    <li><a href="design-studios.php#characters">3D Characters</a></li>
+                                    <li><a href="design-studios.php#environments">3D Environments</a></li>
+                                    <li><a href="design-studios.php#nfts">3D NFTs</a></li>
+                                    <li><a href="design-studios.php#properties">3D Properties</a></li>
+                                    <li><a href="design-studios.php#wearables">3D Wearables</a></li>
                                 </ul>
                             </li>
                             <!-- <li><a href="gaming.php">Gaming</a></li>
@@ -135,15 +135,15 @@
                 </li>
                 <!-- <li><a href="projects.php">Projects</a></li> -->
                 <li class="has-dropdown has-menu-child-item">
-                    <a href="design.php">Design Services</a>
+                    <a href="design-studios.php">Design Services</a>
                     <ul class="submenu">
-                        <li><a href="design.php#3d-animations">3D Animations</a></li>
-                        <li><a href="design.php#3d-assets">3D Assets</a></li>
-                        <li><a href="design.php#3d-characters">3D Characters</a></li>
-                        <li><a href="design.php#3d-environments">3D Environments</a></li>
-                        <li><a href="design.php#3d-nfts">3D NFTs</a></li>
-                        <li><a href="design.php#3d-properties">3D Properties</a></li>
-                        <li><a href="design.php#3d-wearables">3D Wearables</a></li>
+                        <li><a href="design-studios.php#animations">3D Animations</a></li>
+                        <li><a href="design-studios.php#assets">3D Assets</a></li>
+                        <li><a href="design-studios.php#characters">3D Characters</a></li>
+                        <li><a href="design-studios.php#environments">3D Environments</a></li>
+                        <li><a href="design-studios.php#nfts">3D NFTs</a></li>
+                        <li><a href="design-studios.php#properties">3D Properties</a></li>
+                        <li><a href="design-studios.php#wearables">3D Wearables</a></li>
                     </ul>
                 </li>
                 <!-- <li><a href="gaming.php">Gaming</a></li>
@@ -161,7 +161,7 @@
                         <li><a href="marketing.php#">360 Content Marketing</a></li>
                     </ul>
                 </li> -->
-                <li><a href="index.php#request">Contact Us</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
                 <!-- <li><a href="book-meeting.php">Book a Meeting</a></li> -->
                 <!-- <li><a href="#">Marketplace</a></li> -->
             </ul>

@@ -27,7 +27,7 @@
 <?php include 'navmenu.php';?>
 
 <!-- 3D Animation Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-animations">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="animations">
     <div class="container">
         <div class="row ">
             <div class="col">
@@ -79,7 +79,7 @@
 <!-- 3D Animation Section End -->
 
 <!-- 3D Events Section -->
-<section class="ptb-120" id="3d-assets">
+<section class="ptb-120" id="assets">
     <div class="container">
         <div class="row ">
             <div class="col">
@@ -118,13 +118,14 @@
 <!-- 3D Events Section End -->
 
 <!-- 3D Characters Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-characters">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="characters">
     <div class="container">
         <div class="row ">
             <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D Characters</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
                     We create different characters – from stylized to realistic style for 3D printing, games or metaverse characters.
+                    <br>
                 </p>
             </div>
         </div>
@@ -169,7 +170,7 @@
 <!-- 3D Characters Section End -->
 
 <!-- 3D Environments Section -->
-<section class="left-media-section ptb-120" id="3d-environments">
+<section class="left-media-section ptb-120" id="environments">
     <div class="container">
         <div class="row ">
             <div class="col">
@@ -204,13 +205,14 @@
 <!-- 3D Environments Section End -->
 
 <!-- 3D NFTs Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-nfts">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="nfts">
     <div class="container">
         <div class="row ">
             <div class="col">
                 <h2 class="mb-2" data-aos="fade-up" data-aos-delay="100">3D NFTs</h2>
                 <p class="medium" data-aos="fade-up" data-aos-delay="100">
                     Having different members with different specializations, our team produces distinct and noteworthy collectible NFTs.
+                    <br>
                     <br>
                 </p>
             </div>
@@ -227,7 +229,7 @@
 <!-- 3D NFTs Section End -->
 
 <!-- 3D Properties Section -->
-<section class="left-media-section ptb-120" id="3d-properties">
+<section class="left-media-section ptb-120" id="properties">
     <div class="container">
         <div class="row ">
             <div class="col">
@@ -268,7 +270,7 @@
 <!-- 3D Properties Section End -->
 
 <!-- 3D Vehicles Section -->
-<section class="section-bg-separation-2 right-media-section ptb-120" id="3d-wearables">
+<section class="section-bg-separation-2 right-media-section ptb-120" id="wearables">
     <div class="container">
         <div class="row ">
             <div class="col">

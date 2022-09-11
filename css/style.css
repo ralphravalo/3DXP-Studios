@@ -7297,7 +7297,7 @@ model-viewer#reveal {
 }
 
 .animations-name {
-  margin: 10px 0 15px;
+  margin: 0 0 15px;
   font-size: 20px;
   display: block;
 }
@@ -7327,7 +7327,7 @@ model-viewer#reveal {
 }
 
 .assets-media.environments .environment-name {
-  margin: 10px 0 15px 0;
+  margin: 15px 0;
   font-size: 20px;
   text-align: center;
 }
