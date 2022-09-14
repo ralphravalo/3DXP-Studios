@@ -182,7 +182,7 @@
         </div>
         <div class="row " data-aos="fade-up" data-aos-delay="100">
             <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="300">
-                <img src="./images/design studios/3d environments/house garden 2.png" alt="">
+                <img src="./images/design studios/3d environments/house garden 1.png" alt="">
                 <div class="environment-name">Mansion House Garden</div>
             </div>
             <div class="col m-3 assets-media environments" data-aos="fade-up" data-aos-delay="400">
@@ -280,23 +280,289 @@
                 </p>
             </div>
         </div>
-        <div class="row " data-aos="fade-up" data-aos-delay="100">
-            <div class="col m-3 assets-media wearables" data-aos="fade-up" data-aos-delay="200">
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+            <div class="col m-3 assets-media wearables">
                 <img src="./images/design studios/3d wearables/Decentraland Wearables.png" alt="">
                 <div class="properties-name">Decentraland Wearables</div>
             </div>
-            <div class="col m-3 assets-media wearables" data-aos="fade-up" data-aos-delay="300">
+            <div class="col m-3 assets-media wearables">
                 <img src="./images/design studios/3d wearables/RPM Wearable.png" alt="">
                 <div class="properties-name">RPM Wearable</div>
             </div>
         </div>
-        <!-- <div class="row " data-aos="fade-up" data-aos-delay="100">
-            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="700"></div>
-            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="800"></div>
-            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="900"></div>
-            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1000"></div>
-            <div class="col m-3 assets-media" data-aos="fade-up" data-aos-delay="1100"></div>
-        </div> -->
+        
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Gloves</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Gloves/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Gloves/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Gloves/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Gloves/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Gloves/5.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Headgear</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/5.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headgear/6.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Headphone</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headphone/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headphone/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headphone/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headphone/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Headphone/5.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Jewelry</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="row">
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/1.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/2.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/3.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/4.png" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/5.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/6.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/7.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Jewelry/8.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Mask</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/5.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Mask/6.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Pants</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="row">
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/1.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/2.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/3.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/4.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/5.png" alt="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/6.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/7.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/8.png" alt="">
+                    </div>
+                    <div class="col m-3 assets-media wearables">
+                        <img src="./images/design studios/3d wearables/Pants/9.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Set</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Set/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Set/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Set/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Set/4.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Shirts</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/5.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shirts/6.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Shoes</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/5.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Shoes/6.png" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Stuff</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/5.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Stuff/6.png" alt="">
+                </div>
+            </div>
+        </div>
+        
+        <div class="wearable-set-container" data-aos="fade-up" data-aos-delay="100">
+            <div class="wearables-name" data-aos="fade-up" data-aos-delay="100">Wings</div>
+            <div class="row" data-aos="fade-up" data-aos-delay="200">
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Wings/1.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Wings/2.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Wings/3.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Wings/4.png" alt="">
+                </div>
+                <div class="col m-3 assets-media wearables">
+                    <img src="./images/design studios/3d wearables/Wings/5.png" alt="">
+                </div>
+            </div>
+        </div>
+
     </div>
 </section>
 <!-- 3D Vehicles Section End -->
